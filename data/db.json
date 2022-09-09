@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "Almonds, Unsalted, in the blue bag",
+      "image": "/logo192.png"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "Pizza",
+      "image": "/logo192.png"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "Bread",
+      "image": "/logo192.png"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "Icecream",
+      "image": "/logo192.png"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "Icecream",
+      "image": "/logo192.png"
+    },
+    {
+      "item": "Pancake",
+      "image": "/logo192.png",
+      "id": 6
+    },
+    {
+      "item": "Hamburger",
+      "image": "/logo192.png",
+      "id": 7
+    }
+  ]
+}
