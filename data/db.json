@@ -39,6 +39,11 @@
       "item": "Hamburger",
       "image": "/logo192.png",
       "id": 7
+    },
+    {
+      "item": "Hamburger",
+      "image": "/logo192.png",
+      "id": 8
     }
   ]
 }
