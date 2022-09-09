@@ -7,7 +7,7 @@ function Login() {
   const password = useRef();
   const navigate = useNavigate();
   const handleSubmit = () => {
-    if(email.current.value == "test@gmail.com" && password.current.value == "test") {
+    if(email.current.value == "test@gmail.com" && password.current.value == "1234") {
       localStorage.setItem("emaildata", "email@gmail.com");
       localStorage.setItem("passwordData", "1234");
       navigate("/home", { replace: true });
